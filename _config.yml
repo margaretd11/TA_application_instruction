@@ -1,5 +1,8 @@
 plugins:
   - jekyll-relative-links
+title: TA Applications at Carnegie Mellon University
+description: Learn more about the TA application process at CMU.
+show_downloads: true
 relative_links:
   enabled: true
   collections: true
