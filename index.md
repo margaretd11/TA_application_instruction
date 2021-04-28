@@ -1,26 +1,19 @@
 # How to Apply for TA at CMU
 
-This is a [76-270 project](https://margaretd11.github.io/TA_application_instruction/about/info).
-
-## General Steps For Applying
-
-(modify this part)
-1. list the positions you are considering
-    1. find their departments
-    1. roughly estimate how many hours you can commit
-1. check out the following resources by department to have specific instructions for your position
-1. ...
-
+Learn more about the TA application process at CMU. This website is meant to showcase links and a general quickstart guide for CMU students applying to become a Teaching Assistant at various programs. If you would like to add to this website, please make a pull request and we can add it.
 
 ## Resources by Department
-* [ECE](https://margaretd11.github.io/TA_application_instruction/departments/ECE)
-* [CS](https://margaretd11.github.io/TA_application_instruction/departments/CS)
-* [ML](https://margaretd11.github.io/TA_application_instruction/departments/ML)
-* [Math](https://margaretd11.github.io/TA_application_instruction/departments/Math)
-* [Statistics](https://margaretd11.github.io/TA_application_instruction/departments/Stats)
-* [Physics](https://margaretd11.github.io/TA_application_instruction/departments/Physics)
-* [MechE](https://margaretd11.github.io/TA_application_instruction/departments/MechE)
+
+- [Electrical and Computer Engineering](https://margaretd11.github.io/TA_application_instruction/departments/ECE)
+- [Mechanical Engineering](https://margaretd11.github.io/TA_application_instruction/departments/MechE)
+- [Computer Science](https://margaretd11.github.io/TA_application_instruction/departments/CS)
+- [Machine Learning](https://margaretd11.github.io/TA_application_instruction/departments/ML)
+- [Mathematics](https://margaretd11.github.io/TA_application_instruction/departments/Math)
+- [Statistics](https://margaretd11.github.io/TA_application_instruction/departments/Stats)
+- [Physics](https://margaretd11.github.io/TA_application_instruction/departments/Physics)
 
 ## Feedback / Adding More Resources to the Site
 
 We would love to have more TA positions added to this site
+
+This is a [76-270 project](https://margaretd11.github.io/TA_application_instruction/about/info).
