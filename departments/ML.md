@@ -1,4 +1,4 @@
-## ML TA Positions
+## Machine Learning Department TA Positions
 
 For more information about the Machine Learning Department TA positions, [click here](https://www.ml.cmu.edu/academics/ta.html).
 
