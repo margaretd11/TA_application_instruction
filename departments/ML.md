@@ -2,11 +2,19 @@
 
 For more information about the Machine Learning Department TA positions, [click here](https://www.ml.cmu.edu/academics/ta.html).
 
+### Platform
+
 Apply through google form, which is presented in the link above. Other kinds of general information, including how to apply, is also briefly summarized in the link.
 
 ### Availability
 
 The ML department at CMU looks for TA's every semester.
+
+### Reaching out
+
+According to the website
+
+>Direct any questions / suggestions to the MLD TA Coordinator (Matt Gormley, mgormley@cs.cmu.edu).
 
 ### Application Process
 
