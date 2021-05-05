@@ -2,6 +2,19 @@
 
 Learn more about the TA application process at CMU. This website is meant to showcase links and a general quickstart guide for CMU students applying to become a Teaching Assistant at various programs. If you would like to add to this website, please make a pull request and we can add it.
 
+
+# How to navigate 
+
+Click the department you would like to know more about in the section below. The link will guide you directly to the relevant page.
+Each resource page is divided into sections, containing information regarding...
+
+* Platform for application
+* Availability of positions
+* Reaching out (contact information)
+* Eligibility and Pay
+
+Missing sections indicate that related information is insufficient at current point.
+
 ## Resources by Department
 
 - [Electrical and Computer Engineering](https://margaretd11.github.io/TA_application_instruction/departments/ECE)
