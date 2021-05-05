@@ -1,9 +1,9 @@
 ## Apply for CS TA Positions
 
+### Platform
+
 CS department has a unified [portal](https://www.ugrad.cs.cmu.edu/ta/general.html) for applying.
 (This website requires Andrew-ID login)
-
-### Platform
 
 Either apply online or contact the instructor directly. 
 
@@ -23,9 +23,11 @@ Refer to the website and scroll down to the last section. Pay rates are specifie
 
 >...The present rate of pay depends upon the details of the student's situation:
 >
->$11.50/hr (Freshman)
->$12.00/hr (Sophomores)
->$12.50/hr (Juniors)
->$13.00/hr (Seniors)
->$15.00/hr (Masters, Recent graduates, etc)
->Doctoral Students: No pay beyond the usual stipend
+>- $11.50/hr (Freshman)
+>- $12.00/hr (Sophomores)
+>- $12.50/hr (Juniors)
+>- $13.00/hr (Seniors)
+>- $15.00/hr (Masters, Recent graduates, etc)
+>- Doctoral Students: No pay beyond the usual stipend
+
+More information and FAQs can be found on the website.
