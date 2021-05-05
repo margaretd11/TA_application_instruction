@@ -12,7 +12,7 @@ The ML department at CMU looks for TA's every semester.
 
 ### Reaching out
 
-According to the website
+According to the ML TA website
 
 >Direct any questions / suggestions to the MLD TA Coordinator (Matt Gormley, mgormley@cs.cmu.edu).
 
